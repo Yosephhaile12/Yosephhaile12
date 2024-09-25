@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Yoseph<br>👀 I’m interested in mobile and web development, especially React Native, and software engineering.<br>🌱 I’m currently learning advanced React Native techniques and improving my backend development skills.<br>💞️ I’m looking to collaborate on mobile and web app development projects.<br>📫 How to reach me: Yosephhaile443@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love writing clean and reusable code and experimenting with new programming frameworks.
+# 💫👋, Welcome to my page!:
+👀 I'm available for mobile app, full-stack development, and AI projects.<br>🌱 I’m currently learning advanced React Native techniques and improving my backend development skills.<br>💞️ I’m looking to collaborate on mobile and web app development projects.<br>📫 How to reach me: Yosephhaile443@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love writing clean and reusable code and experimenting with new programming frameworks.
 
 
 ## 🌐 Socials:
